@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudheepdshetty
 - 👀 I’m interested in ...coding and cyber security
-- 🌱 I’m currently learning ...python as start
+- 🌱 I’m currently learning ...python and web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shettysudeep999@gmail.com
 
